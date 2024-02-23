@@ -1,0 +1,22 @@
+{
+  "name": "nextgenweb3ul1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "dotenv": "^16.4.5",
+    "eth-lib": "^0.1.29",
+    "ethereumjs-util": "^7.1.5",
+    "etherscan-api": "^10.3.0",
+    "ganache-cli": "^6.12.2",
+    "truffle-contract": "^4.0.31"
+  }
+}
